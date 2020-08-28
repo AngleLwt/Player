@@ -3,8 +3,6 @@
 
 ## 基于[IJKPlayer](https://github.com/Bilibili/ijkplayer)（兼容系统MediaPlayer与EXOPlayer2），实现了多功能的视频播放器。 (请仔细阅读下方各项说明，大多数问题可在下方找到解答)。
 
-> ## [如果克隆太慢或者图片看不到，可尝试从码云地址下载](https://gitee.com/CarGuo/GSYVideoPlayer)
-
 类型 | 功能
 -------- | ---
 **缓存**|**边播边缓存，使用了[AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)；ExoPlayer使用SimpleCache。**
@@ -39,9 +37,7 @@
 | GSYTech  |  [点我](https://juejin.im/user/582aca2ba22b9d006b59ae68/posts)    |   [点我](https://www.zhihu.com/people/carguo)       |   [点我](https://blog.csdn.net/ZuoYueLiang)  |   [点我](https://www.jianshu.com/u/6e613846e1ea)  
 
 
-![](http://img.cdn.guoshuyu.cn/WeChat-Code)
 
-### [--------------Demo APK 下载地址---------------](https://github.com/CarGuo/GSYVideoPlayer/releases)
 
 ## 一、使用依赖
 
@@ -266,41 +262,10 @@ ExoSourceManager.setExoMediaSourceInterceptListener(new ExoMediaSourceInterceptL
 
 ## 温馨提示
 
-#### [如果克隆太慢，可尝试从码云地址下载](https://gitee.com/CarGuo/GSYVideoPlayer)
-
-```
-关于自定义和出现问题的请先看问题集锦、demo、issue。
-
-多了解一些音视频的基础常识，对容器，音视频编码，ffmpeg先做一些了解，以及mediacodec等的不同。
-尽量少出现为什么别的能播的问题哟。
-
-播放器的可自定义还是挺高的，定制请参考demo，多看源码。现在的功能有些多，demo也在不断的更新。
-
-一些新功能和项目结构也在不断的调整。
-
-欢迎提出问题，谢谢。
-
-```
 
 ## 依赖大小参考
 建议使用ndk过滤，详细参考 [参考第四条 ： 4、NDK的so支持](http://www.jianshu.com/p/86e4b336c17d)
 ![](https://ooo.0o0.ooo/2017/06/15/5941f343a39f5.png)
-
-
-
-
-## 非常感谢您的支持
-
-
-#### 撸码不易，如果对你有所帮助，欢迎您的赞赏
-
-![](http://img.cdn.guoshuyu.cn/thanks.jpg)
-
-
-
-### GSY新书：[《Flutter开发实战详解》](https://item.jd.com/12883054.html)上架啦：[京东](https://item.jd.com/12883054.html) / [当当](http://product.dangdang.com/28558519.html)
-
-[![](http://img.cdn.guoshuyu.cn/WechatIMG65.jpeg)](https://item.jd.com/12883054.html)
 
 
 
