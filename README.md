@@ -41,7 +41,6 @@
 
 ## 一、使用依赖
 
-#### 7.0版本使用了anndroidx，support版本请看6.x.x，请查看：[--- 版本更新说明 - 入口](https://github.com/CarGuo/GSYVideoPlayer/blob/master/doc/UPDATE_VERSION.md)。
 
 ### 1、JCenter 引入方法（推荐）
 
@@ -147,15 +146,6 @@ ExoSourceManager.setExoMediaSourceInterceptListener(new ExoMediaSourceInterceptL
 ```
 
 ### [--- 更多依赖方式请点击 - ](https://github.com/CarGuo/GSYVideoPlayer/blob/master/doc/DEPENDENCIES.md)
-
-## 二、其他推荐
-
-### * QQ群，有兴趣的欢迎（平时吹水吐槽多，因为人数饱和，目前开启付费入群）：174815284 。
-### * [Flutter Github客户端](https://github.com/CarGuo/gsy_github_app_flutter) 、[React Native Github客户端](https://github.com/CarGuo/GSYGithubAPP) 、 [Weex Github客户端](https://github.com/CarGuo/GSYGithubAPPWeex) 、 [原生 Kotlin Github客户端](https://github.com/CarGuo/GSYGithubAPPKotlin)
-### * [RxFFmpeg Android 的音视频编辑工具](https://github.com/microshow/RxFFmpeg)
-### * [oarplayer Rtmp播放器,基于MediaCodec与srs-librtmp,不依赖ffmpeg](https://github.com/qingkouwei/oarplayer)
-### * [RickText](https://github.com/CarGuo/RickText)
-### * [LazyRecyclerAdapter](https://github.com/CarGuo/LazyRecyclerAdapter)
 
 
 ## 三、文档Wiki
